@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 3.5em;
+    color: red;
+}
+
+p {
+    font-family: 'Noto Sans', sans-serif;
+}
